@@ -8,5 +8,3 @@ I aim to provide a comprehensive beginner guide to this field leveraging my lect
 
 I would like this repository to provide valueable insight to the community and to those interested in the field.
 I would also like to contribute to it by adding the most recent developements in the academic literature specifically regarding Bayesian Econometrics, a topic I am discovering while embarking in this learning experience.
-
-I would like to stress that I am working (a lot) and drafting my MSc thesis on an application of Macroeconometrics!
